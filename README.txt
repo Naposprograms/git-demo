@@ -8,4 +8,4 @@ Bla bla bla and also blah blah blah...
 
 ## Website Contents:
 
-1. The index.
+1. index.html
